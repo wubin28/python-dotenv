@@ -39,7 +39,7 @@ def collect_errors(env_vars: dict) -> list[str]:
         name = spec["name"]
         value = env_vars.get(name)
 
-        if not value:
+        if value is None:
             errors.append(f"[FAIL] {name}: 未设置")
             continue
 
