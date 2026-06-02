@@ -1,0 +1,123 @@
+* [1;34m0876052[m - [2m2026-06-02 14:28:36[m [36mfix: skipped command flag tests on Windows platform to fix the error when running tests[m [2m- wubin28[m[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m[m
+* [1;34md2b8e08[m - [2m2026-05-20 15:44:50[m [36mfix: fixed the DB_PASSWORD: 未设置 error[m [2m- wubin28[m[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+* [1;34m9cc97d8[m - [2m2026-03-07 17:52:48[m [36mchore: found the bug by the python-code-review-for-python-dotenv skill[m [2m- wubin28[m[m[m
+* [1;34mf29f991[m - [2m2026-03-07 17:13:01[m [36mchore: generated python-code-review-for-python-dotenv skill by create-skill in github copilot in vscode[m [2m- wubin28[m[m[m
+* [1;34m1d53542[m - [2m2026-03-07 16:58:16[m [36mchore: injected an empty-string-falsy-trap bug[m [2m- wubin28[m[m[m
+* [1;34m97b50e0[m - [2m2026-03-07 16:42:56[m [36mchore: ran the test code for user-story-for-python-dotnet-for-env-check.md[m [2m- wubin28[m[m[m
+* [1;34m6837667[m - [2m2026-03-07 16:32:13[m [36mchore: generated test and production code for user-story-for-python-dotnet-for-env-check.md[m [2m- wubin28[m[m[m
+* [1;34m3ace86f[m - [2m2026-03-07 16:06:39[m [36mchore: generated user-story-for-python-dotnet-for-env-check.md[m [2m- wubin28[m[m[m
+* [1;34mf4297ce[m - [2m2026-03-07 10:46:22[m [36mchore: generated understand-the-python-code-2026-03-07--10-39.md[m [2m- wubin28[m[m[m
+* [1;34m09d7cee[m - [2m2026-01-12 18:33:32[m [36mdocs: clarify override behavior and document FIFO support (#610)[m [2m- Saurabh Kumar[m[m[m
+* [1;34mc8de288[m - [2m2026-01-12 18:05:22[m [36mci: improve workflow efficiency with best practices (#609)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m7bd9e3d[m - [2m2026-01-12 13:22:58[m [36mAdd Windows testing to CI (#604)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m1baaf04[m - [2m2026-01-12 17:47:09[m [36mDrop Python 3.9 support and update to PyPy 3.11 (#608)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m4a22cf8[m - [2m2026-01-12 17:13:24[m [36mci: enable testing on Python 3.14t (free-threaded) (#588)[m [2m- Naman Aarzoo[m[m[m
+* [1;34me2e8e77[m - [2m2026-01-12 22:31:26[m [36mFix license specifier (#597)[m [2m- cpackham-atlnz[m[m[m
+* [1;34m25b04ae[m - [2m2026-01-12 10:26:31[m [36mClean up "Related projects" section of the readme (#602)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m6d28eee[m - [2m2026-01-12 10:25:44[m [36mDocs: Improve readability of reference page (#605)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m9f3b8b5[m - [2m2026-01-12 09:43:58[m [36mMake `dotenv run` forward flags to given command (#607)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34mf54d29f[m - [2m2026-01-10 18:28:51[m [36mFix formatting[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34mcd48b58[m - [2m2025-11-24 13:37:41[m [36mBump actions/checkout from 5 to 6 in the github-actions group[m [2m- dependabot[bot][m[m[m
+* [1;34m0525fc9[m - [2m2025-05-23 11:02:55[m [36mskip 000 permission tests for root user[m [2m- Balaje Suri[m[m[m
+* [1;34md10ea61[m - [2m2025-11-12 13:59:42[m [36mfix: Add missing 3.14 PyPI classifier.[m [2m- James Ouyang[m[m[m
+* [1;34m85f4329[m - [2m2025-10-26 20:47:08[m [36mFix gh-pages deployment permission issue[m [2m- Saurabh Kumar[m[m[m
+* [1;34meaf2a91[m - [2m2025-10-26 20:37:34[m [36mDo not remove .coverage file[m [2m- Saurabh Kumar[m[m[m
+* [1;34m8716196[m - [2m2025-10-26 20:35:18[m [36mBump version: 1.2.0 → 1.2.1[m [2m- Saurabh Kumar[m[m[m
+* [1;34mb87807f[m - [2m2025-10-26 20:02:48[m [36mUpdate changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m3af77d3[m - [2m2025-10-26 10:27:02[m [36mSupport reading .env from FIFOs (Unix) (#586)[m [2m- Sidharth Sudhir[m[m[m
+* [1;34m467ee22[m - [2m2025-10-26 19:52:04[m [36mFix test failures after moving config to pyproject.toml[m [2m- Saurabh Kumar[m[m[m
+* [1;34m76999e7[m - [2m2025-10-26 19:44:54[m [36mMove more config pyproject.toml[m [2m- Saurabh Kumar[m[m[m
+* [1;34m222ce2c[m - [2m2025-10-26 19:29:30[m [36mUpdate to use trusted publisher on pypi[m [2m- Saurabh Kumar[m[m[m
+* [1;34m8ed4f79[m - [2m2025-10-26 19:11:03[m [36mUpdate docs requirements[m [2m- Saurabh Kumar[m[m[m
+* [1;34m5bf8822[m - [2m2025-10-26 19:05:14[m [36mBump version: 1.1.1 → 1.2.0[m [2m- Saurabh Kumar[m[m[m
+* [1;34m1fe11cc[m - [2m2025-10-26 19:05:03[m [36mupadate changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m80cfe9f[m - [2m2025-10-26 18:55:53[m [36mFix build command[m [2m- Saurabh Kumar[m[m[m
+* [1;34m8b4e13d[m - [2m2025-10-26 23:14:16[m [36mMove project metadata and config to pyproject.toml (#583)[m [2m- Laurie O[m[m[m
+* [1;34mf288da1[m - [2m2025-10-14 16:30:13[m [36mBump the github-actions group across 1 directory with 2 updates (#577)[m [2m- dependabot[bot][m[m[m
+* [1;34m9f722ce[m - [2m2025-10-14 11:59:18[m [36mdocs: clarify what load_dotenv() does in README (#575)[m [2m- Tomiwa Kunle Oluwadare[m[m[m
+* [1;34ma2bc2b3[m - [2m2025-10-14 16:27:15[m [36mAdded Python@3.14: Github CI & tox.ini (#579)[m [2m- Naman Aarzoo[m[m[m
+* [1;34m16f2bda[m - [2m2025-06-24 15:53:52[m [36mUpdate spacing and docs[m [2m- Saurabh Kumar[m[m[m
+* [1;34mc715d19[m - [2m2025-06-24 11:03:25[m [36mfeat:  add `PYTHON_DOTENV_DISABLED` flag to disable load_dotenv (fixes #510) (#569)[m [2m- matthewfranglen[m[m[m
+* [1;34m666984d[m - [2m2025-06-24 12:21:50[m [36mUse sys.exit() instead of exit() (#568)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m02b6857[m - [2m2025-06-24 11:22:38[m [36mstyle: upgrade to use ruff (#567)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m16e660d[m - [2m2025-06-24 09:47:34[m [36mBump version: 1.1.0 → 1.1.1[m [2m- Saurabh Kumar[m[m[m
+* [1;34m667e82f[m - [2m2025-06-24 09:02:34[m [36mupdate changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m9d85edb[m - [2m2025-06-24 13:24:26[m [36mfix(cli): issue with execvpe on Windows (#566)[m [2m- Jake Owen[m[m[m
+* [1;34m8411987[m - [2m2025-05-30 22:23:02[m [36mfix: ensure find_dotenv work reliably on python 3.13 (#563)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m01f8997[m - [2m2025-03-31 13:29:19[m [36mdocs update[m [2m- Saurabh Kumar[m[m[m
+* [1;34m6a02ef5[m - [2m2025-03-25 16:23:46[m [36mupdate mkdocs -> mkdocstrings config[m [2m- Saurabh Kumar[m[m[m
+* [1;34m36c6270[m - [2m2025-03-25 15:42:28[m [36mUpdate changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m2198b69[m - [2m2025-03-25 15:41:24[m [36mBump version: 1.0.1 → 1.1.0[m [2m- Saurabh Kumar[m[m[m
+* [1;34mc89fb6d[m - [2m2025-03-25 15:38:56[m [36mUpdate changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m8dd413e[m - [2m2025-03-25 16:33:52[m [36mAdd _is_debugger so load_dotenv will work in pdb (#553)[m [2m- randomseed42[m[m[m
+* [1;34m9acba4a[m - [2m2025-03-09 23:44:09[m [36mSome more s/Python-dotenv/python-dotenv/ (#552)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m3c19c03[m - [2m2025-03-09 14:59:52[m [36ms/Python-dotenv/python-dotenv/ (#516)[m [2m- Rod Elias[m[m[m
+* [1;34m4159388[m - [2m2025-03-09 23:27:31[m [36mAdd support for python 3.13 and drop 3.8 (#551)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m2b8635b[m - [2m2024-11-01 10:42:56[m [36mBump the github-actions group with 2 updates (#529)[m [2m- dependabot[bot][m[m[m
+* [1;34m533f8ac[m - [2m2024-10-31 23:12:30[m [36mAdd Python 3.13 trove classifier (#535)[m [2m- Edgar Ramírez Mondragón[m[m[m
+* [1;34m4d505f2[m - [2m2024-07-24 03:20:57[m [36mci: add py3.13 to test.yml (#527)[m [2m- Waket Zheng[m[m[m
+* [1;34m4543837[m - [2m2024-07-18 04:56:47[m [36mEnhance dotenv run: Switch to execvpe for better resource management and signal handling (#523)[m [2m- eekstunt[m[m[m
+* [1;34m08937a1[m - [2m2024-04-29 10:01:16[m [36mdocs: clearify default behaviour of load_dotenv[m [2m- Saurabh Kumar[m[m[m
+* [1;34m8c9381e[m - [2m2024-04-08 18:17:29[m [36mci: fix multiline string in test.yml & use fail-fast strategy (#514)[m [2m- Christian Clauss[m[m[m
+* [1;34mbf20c80[m - [2m2024-03-11 15:20:51[m [36mKeep GitHub Actions up to date with GitHub's Dependabot[m [2m- Christian Clauss[m[m[m
+* [1;34m6d6070c[m - [2m2024-04-04 22:55:17[m [36mAdd a security policy[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34md6c0b96[m - [2m2024-01-23 12:00:33[m [36mBumpversion 1.0.0 -> 1.0.1[m [2m- Saurabh Kumar[m[m[m
+* [1;34m42dc086[m - [2m2024-01-23 11:49:30[m [36mUpdate changelog for 1.0.1[m [2m- Saurabh Kumar[m[m[m
+* [1;34mb1eebba[m - [2m2024-01-23 11:34:15[m [36mAdd python 3.12 and pypy3.10 to test runner[m [2m- Saurabh Kumar[m[m[m
+* [1;34m6ff1391[m - [2m2024-01-23 11:21:15[m [36mFix temporary file is deleted before closing, in the rewrite function (#468)[m [2m- Qwerty-133[m[m[m
+* [1;34m0b94ac0[m - [2m2024-01-22 21:45:11[m [36mAllow modules using load_dotenv to be reloaded when launched in a separate thread (#497)[m [2m- Freddy Boulton[m[m[m
+* [1;34m3ffcef6[m - [2m2023-07-07 19:27:15[m [36mUse https in README links (#474)[m [2m- Nicolas Appriou[m[m[m
+* [1;34mbe96be2[m - [2m2023-06-24 10:02:12[m [36mUse pathlib.Path in tests (#466)[m [2m- Miroslav Šedivý[m[m[m
+* [1;34m137bc3d[m - [2m2023-04-17 16:12:57[m [36mGracefully handle code which has been imported from a zipfile (#456)[m [2m- Sam Wyma[m[m[m
+* [1;34mdd1af68[m - [2m2023-03-14 08:32:42[m [36mFIx year in release in changelog (#453)[m [2m- Jan Kislinger[m[m[m
+* [1;34md0684d1[m - [2m2023-02-24 12:14:03[m [36mBump version: 0.21.1 → 1.0.0[m [2m- Saurabh Kumar[m[m[m
+* [1;34m6c8ddd2[m - [2m2023-02-24 12:13:58[m [36mPrepare for release 1.0.0[m [2m- Saurabh Kumar[m[m[m
+* [1;34m0611643[m - [2m2023-02-24 11:54:32[m [36mDrop support for python 3.7, add python 3.12-dev (#449)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m87e5527[m - [2m2023-02-24 01:23:26[m [36mUpdate readme, add python-decouple as a related project (#451)[m [2m- Kenneth C. Arnold[m[m[m
+* [1;34mfc19a55[m - [2m2023-02-23 01:21:29[m [36mHandle situations where the cwd does not exist. (#446)[m [2m- jctanner[m[m[m
+* [1;34mb904a72[m - [2m2023-01-21 19:17:24[m [36mupdate docs - better toc for changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m291fa66[m - [2m2023-01-21 16:31:07[m [36mUpdate documtation[m [2m- Saurabh Kumar[m[m[m
+* [1;34m5317a56[m - [2m2023-01-21 15:50:46[m [36mBump version: 0.21.0 → 0.21.1[m [2m- Saurabh Kumar[m[m[m
+* [1;34mb84bccd[m - [2m2023-01-21 15:45:30[m [36mAdd changelog for 0.21.1[m [2m- Saurabh Kumar[m[m[m
+* [1;34ma18ea18[m - [2m2023-01-21 15:31:57[m [36mFix coverage reporting (#445)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m09cf4ab[m - [2m2023-01-10 21:37:56[m [36mFix type hint for dotenv_path var, add StrPath alias (#432)[m [2m- Eddie Aftandilian[m[m[m
+* [1;34mf75103c[m - [2m2023-01-05 06:41:54[m [36mUpdated license format to better Align with BSD OSI template (#433)[m [2m- Lukas Kahwe Smith[m[m[m
+* [1;34m7dc2492[m - [2m2022-11-12 14:02:33[m [36mImprove error message for `get` and `list` commands[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m025f762[m - [2m2022-11-23 08:41:04[m [36mFix typo[m [2m- Michael V. DePalatis[m[m[m
+* [1;34mceca48c[m - [2m2022-11-12 13:43:38[m [36mUse f-strings, make some code more concise and change docstrings to double quotes according to PEP257[m [2m- momohakarish[m[m[m
+* [1;34mc22bc50[m - [2m2022-11-12 14:06:02[m [36mFix IPython test warning about deprecated `magic`[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34mcadf4fc[m - [2m2022-10-27 22:30:58[m [36mModernize main.py and parser.py code[m [2m- momohakarish[m[m[m
+* [1;34m00cc7ae[m - [2m2022-10-27 00:41:15[m [36mModernize some code in variables.py[m [2m- momohakarish[m[m[m
+* [1;34m7e199c3[m - [2m2022-11-11 17:27:11[m [36mUse 3.11 non-beta in CI[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m1ecb57d[m - [2m2022-07-27 03:26:26[m [36mFix out of scope error when "dest" variable is undefined[m [2m- Ben Li-Sauerwine[m[m[m
+* [1;34m718307b[m - [2m2022-11-08 20:20:45[m [36mUpdate __init__.py[m [2m- Praveensenpai[m[m[m
+* [1;34mcedd36d[m - [2m2022-09-18 16:48:21[m [36mFixed minor spelling mistake (#426)[m [2m- 丂ᴀɪᴍ 乇ʜsᴀɴ[m[m[m
+* [1;34mb6fe193[m - [2m2022-09-03 20:42:11[m [36mBump version: 0.20.0 → 0.21.0[m [2m- Saurabh Kumar[m[m[m
+* [1;34m5d07931[m - [2m2022-09-03 20:38:55[m [36mupdate changelog[m [2m- Saurabh Kumar[m[m[m
+* [1;34m490b116[m - [2m2022-09-03 20:38:05[m [36mRevert "fix: out of scope error when "dest" variable is undefined #413"[m [2m- Saurabh Kumar[m[m[m
+* [1;34mb1f041d[m - [2m2022-09-03 20:14:32[m [36mAdd release notes for 0.21.0[m [2m- Saurabh Kumar[m[m[m
+* [1;34m6399af6[m - [2m2022-09-03 19:49:33[m [36mchore: fix flake8 issue[m [2m- Saurabh Kumar[m[m[m
+* [1;34ma53d652[m - [2m2022-09-03 09:58:22[m [36mfix: out of scope error when "dest" variable is undefined #413[m [2m- Ben Li-Sauerwine[m[m[m
+* [1;34ma7c811d[m - [2m2022-09-03 06:34:49[m [36mUpdate README.md (#415)[m [2m- harveer07[m[m[m
+* [1;34m914c68e[m - [2m2022-07-22 23:21:31[m [36mfeat(cli) add --format= option to list command (#407)[m [2m- Sam McKelvie[m[m[m
+* [1;34m2f36c08[m - [2m2022-07-23 15:07:18[m [36mDrop Python 3.5 and 3.6 and upgrade GA (#393)[m [2m- eggplants[m[m[m
+* [1;34ma50a3bf[m - [2m2022-07-23 11:21:06[m [36mAdd .vscode to gitignore[m [2m- Saurabh Kumar[m[m[m
+* [1;34m6b1e68b[m - [2m2022-06-12 19:18:56[m [36mAdd `parse_it` to Related Projects (#410)[m [2m- Naor Livne[m[m[m
+* [1;34m2cf826f[m - [2m2022-06-05 12:54:25[m [36mchore: add GitHub Actions for deploying docs (#399)[m [2m- Saurabh Kumar[m[m[m
+* [1;34mee15221[m - [2m2022-06-05 01:50:42[m [36mfeat: return False when we do not discover any environment variables (#388)[m [2m- Lars Kellogg-Stedman[m[m[m
+* [1;34m29bceb8[m - [2m2022-04-18 00:34:04[m [36mchore: add how to run docs locally[m [2m- Saurabh Kumar[m[m[m
+* [1;34mcb53e1e[m - [2m2022-04-17 20:59:58[m [36mImprove documentation with direct use of MkDocs (#398)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m769a040[m - [2m2022-04-18 00:13:07[m [36mfeat(cli): add support for execution via 'python -m' (#395)[m [2m- Saurabh Kumar[m[m[m
+* [1;34m8080d1d[m - [2m2022-04-07 15:24:18[m [36mUse built-in unittest.mock instead of third-party mock[m [2m- Michał Górny[m[m[m
+* [1;34m7d9cd4b[m - [2m2022-04-07 19:17:37[m [36mSkip test_ipython if IPython is not available (#397)[m [2m- Michał Górny[m[m[m
+* [1;34mb4e0c78[m - [2m2022-03-26 19:13:33[m [36mDocs: Improve documentation for variables without value (#390)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m07a2fa1[m - [2m2022-03-25 14:47:22[m [36mUse `open` instead of `io.open`[m [2m- Rabin Adhikari[m[m[m
+* [1;34m65dfa71[m - [2m2022-03-24 16:33:57[m [36mFix link typo in changelog[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m53cee8c[m - [2m2022-03-24 15:23:31[m [36mRelease version 0.20.0[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m3832011[m - [2m2022-03-13 18:10:08[m [36mDon't mark wheels as universal (#387)[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m06c645c[m - [2m2022-02-15 10:29:34[m [36mFix installing entry points[m [2m- Michał Górny[m[m[m
+* [1;34m157282c[m - [2m2022-02-19 14:38:01[m [36mAdd encoding parameter to {get,set,unset}_key[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34mba9408c[m - [2m2022-01-14 11:23:37[m [36mchore: add test with Python 3.11 (#368)[m [2m- Ville Skyttä[m[m[m
+* [1;34m2471a5a[m - [2m2021-11-11 13:25:19[m [36mRelease version 0.19.2[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34m45848bb[m - [2m2021-10-23 11:34:36[m [36mAdd missing trailing newline when adding new value[m [2m- Bertrand Bonnefoy-Claudet[m[m[m
+* [1;34mfc138ce[m - [2m2021-10-09 13:47:30[m [36mRelease version 0.19.1[m [2m- Saurabh Kumar[m[m[m

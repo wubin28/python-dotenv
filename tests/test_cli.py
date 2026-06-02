@@ -276,6 +276,7 @@ def test_run_with_version(cli):
     assert result.output.strip().endswith(__version__)
 
 
+@pytest.mark.skipif(sys.platform == "win32", reason="printenv is not available on Windows")
 def test_run_with_command_flags(dotenv_path):
     """
     Check that command flags passed after `dotenv run` are not interpreted.
